@@ -1,0 +1,85 @@
+h1 {
+    color: #ffffff;
+    font-size: 43px;
+    font-family: Arial;
+    background-color: #0053a0;
+    width: 50%;
+    border-radius: 0px 10px 10px 0px;
+    text-align: right; 
+    padding: 10px;
+    font-weight: bold;
+    text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.5);
+    letter-spacing: 4px;
+    border: 1px solid darkblue;
+}
+#ten {
+    font-family: arial;
+    color: #003668;
+    font-style: italic;
+    font-size: 42px;
+}
+#opening {
+    background-image: url('hinh-nen.jpeg');
+    background-size: cover;
+    width:auto;
+    height: 1000px;
+    padding: 80px;
+    color: #ffffff;
+}
+#sotruong {
+    
+    border: 1px solid #00a2d3;
+    border-radius: 10px;
+    margin: 20px 50px 50px 50px;
+    padding: 20px;
+    background: #90f1e7;
+    height: 630px;
+    width: 600px;
+}
+.dssotruong {
+    border: 1px solid #e5e5e5;
+    background-color: #ffffff;
+    height: 30px;
+    width: 50%;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 20px;
+}
+ul {
+    list-style-type: circle;
+}
+span {
+    font-family: Georgia;
+    font-size: 1.5em;
+    font-style: oblique;
+    font-weight: bolder;
+}
+#hoatdong {
+    background: #b1ffb1;
+    height: 100px"
+}
+table {
+  border: 2px solid blue;
+  border-spacing: 3px;
+    font-size: 36px;
+    padding: 2px;
+td {
+    padding: 10px;
+}
+}
+#thu {
+  background-color: blue;
+}
+#sang, #chieu {
+  background-color: lightgreen;
+}
+.image-style {
+    background-color: rgb(51, 51, 51);
+    text-align: center;
+}
+.iamge-style img {
+    padding: 20px;
+    max-height: 75%;
+    max-width: 75%;
+    border-radius: 40px;    
+}
